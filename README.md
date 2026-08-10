@@ -1,2 +1,2 @@
-# c-practice
-My  C programming pracrice.
+# cpp-practice
+My  C and C++ programming pracrice.
